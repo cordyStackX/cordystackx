@@ -17,3 +17,5 @@
 [**View my portfolio →**](https://cordy-stack-x.vercel.app/)
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=cordystackx&repo=cordystackx&cache_seconds=86400&theme=dark_github_repocard)](https://github.com/cordystackx/cordystackx)
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=cordystackx&repo=cordy_minikit_official&cache_seconds=86400&theme=dark_github_repocard)](https://github.com/cordystackx/cordystackx)
