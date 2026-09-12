@@ -1,6 +1,4 @@
-# Hi, I'm Cordy 👋
-
-Exploring **Web2 & Web3 development** 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Cordy+%F0%9F%91%8B;Exploring+Web2+%26+Web3+development+%F0%9F%9A%80;An+Open+Source+Software+Developer;Specialty+Nextjs+and+Linux+Tweaks;and+a+Web3+builders;I+use+Arch+BTW+hehe...%F0%9F%98%8F%F0%9F%98%8F)](https://git.io/typing-svg)
 
 ### Badges
 [![wakatime](https://wakatime.com/badge/user/70d9b2a4-4f2e-45b5-9349-2fc8e3974a45.svg)](https://wakatime.com/@70d9b2a4-4f2e-45b5-9349-2fc8e3974a45)
