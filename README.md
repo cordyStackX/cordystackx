@@ -11,7 +11,7 @@ Hi, I’m Cordy — currently exploring **Web2/Web3 development** 🚀🚀
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| ![Cordy's GitHub stats](https://cordystackxdata.vercel.app/api?username=cordyStackX&theme=gotham) | ![Top Langs](https://cordystackxdata.vercel.app/api/top-langs/?username=cordyStackX&langs_count=5&theme=gotham) |
+| [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=cordystackx)](https://github.com/stats-organization/github-stats-extended) | ![Top Langs](https://cordystackxdata.vercel.app/api/top-langs/?username=cordyStackX&langs_count=5&theme=gotham) |
 
 
 ## 👨‍💻 Coding Activity
