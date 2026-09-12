@@ -8,10 +8,7 @@ Hi, I’m Cordy — currently exploring **Web2/Web3 development** 🚀🚀
 
 
 ## 📊 Stats and Programming Languages
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![CordyStackX GitHub stats](https://github-stats-extended.vercel.app/api?username=cordystackx&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&theme=dark_github)| ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=cordystackx&layout=pie&theme=dark_github) |
+![CordyStackX GitHub stats](https://github-stats-extended.vercel.app/api?username=cordystackx&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&theme=dark_github) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=cordystackx&layout=pie&theme=dark_github) 
 
 
 ## 👨‍💻 Coding Activity
